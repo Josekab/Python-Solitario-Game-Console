@@ -1,2 +1,2 @@
-# python-Solitario-Game-Console
+# Python-Solitario-Game-Console
 Juego Solitario en consola
